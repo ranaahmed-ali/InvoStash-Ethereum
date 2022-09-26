@@ -1,17 +1,19 @@
+STATIC_STAKING_CONTRACTS:-
+
+StaticStakingContract :- ( Gas used: 0.00753592 GWEI )
+https://rinkeby.etherscan.io/address/0x8401919f15899f9ee446c859d5cf64dde3f670d8#code
+
+ERC20 Staking Token:- ( Gas used: 0.00389616 GWEI )
+https://rinkeby.etherscan.io/address/0xa5312489fc99ae91a37a5a8646a436cbea4cbe14#code
+
+ERC20 Reflectionary/Reward Token:- ( Gas used: 0.00605054 GWEI )
+https://goerli.etherscan.io/address/0x9d50f46ddaf35971d6165633984ff0e2ffc4af91#code
+
+ETHEREUM Static_Staking_Contract Documentation:-https://docs.google.com/document/d/1gDJP3WgrLpY9ozBULrpZkvKo9YzIcSRXbrm7FyP0eg0/
 
 
 
 
-
-
-
-
-
-
-
-
-ETHEREUM
-ERC-20  STATIC_STAKING_CONTRACT
 
 
 
