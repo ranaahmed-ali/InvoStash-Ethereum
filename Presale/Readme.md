@@ -15,6 +15,20 @@ PreSale (ERC20 based)
 
 
 
+Implementation:-
+( All contracts are optimized )
+
+Presale:- ( Gas used: 0.00352608 GWEI )
+https://goerli.etherscan.io/address/0x2c65716efbdd689c23d19ade455b73007c552d7e#code
+
+ERC20_StakingToken:- ( Gas used: 0.00395976 GWEI )
+https://goerli.etherscan.io/address/0xf166ecb87308137994a4e72ca7fca04e69eaf158#code
+
+ETHEREUM PreSale ERC20 AhmedAli Documentation:-
+https://docs.google.com/document/d/15fK0jVY9al8iJtRfyunFc_BPnF85JUWVTfToTtVC_0k/
+
+
+
 
 What is PreSale?
 Presale is a process or a set of activities/sales normally carried out before a customer is acquired, though sometimes presales also extend into the period the product or service is delivered to the customer.
