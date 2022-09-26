@@ -3,8 +3,15 @@
 
 
 
-ETHEREUM
-ERC-20 Reflectionary/Reward Token
+ERC20_Reflectionary / Reward Token ( RWD ) Token Contract: -
+(Gas used: 0.00605054 GWEI )
+https://rinkeby.etherscan.io/address/0xC7cF2110f2Ff415F4bb971C53F5e5a250c066434#code
+
+
+
+ETHEREUM Reflectionary Token (RWD ): -
+
+https://docs.google.com/document/d/1phIeL4UXa-gbeQ_ZO26er_zmUtEpgNcarA9ozEi8G4c/
 
 
 Usage:-
