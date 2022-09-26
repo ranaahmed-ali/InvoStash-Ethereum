@@ -14,6 +14,12 @@ ETHEREUM
 SudoSwap AMM
 
 
+SudoSwap AMM Documentation:-
+https://docs.google.com/document/d/1cn0-VnH0Exm9fqCvEmKnXgHsk2X1wl9eTF9bMBKzyrs/edit#
+
+Example Video for SudoSwap Flow:-
+https://trello.com/1/cards/6311dc8170f3ca01f3249e80/attachments/6329a0d16c3d8b00ed0aa43f/download/SudoSwapAMM_Flow.mkv
+
 
 
 What is sudoswap AMM?
