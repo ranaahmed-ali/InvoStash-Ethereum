@@ -2,6 +2,9 @@
 See Documentation for extra details.
 Docs : https://docs.google.com/document/d/1XE2AJ18Lb7X5xDOnsUmQf5i4V9TaMH3IWdpPdYUvOrk/
 
+Staking Token ( STK ) ERC20 Token Contract: - ( Gas used: 0.00389616 GWEI )
+https://rinkeby.etherscan.io/address/0xa5312489fc99ae91a37a5a8646a436cbea4cbe14#code
+
 
 
 
