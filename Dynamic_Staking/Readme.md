@@ -1,11 +1,28 @@
+DYNAMIC_STAKING_CONTRACTS:-
+
+All contracts are optimized.
+
+Dynamic Staking Contract:- ( Gas used: 0.00796831 GWEI )
+https://rinkeby.etherscan.io/address/0x6f0005cc99f592ee30809c79bac6848612afd9f3#code
+
+ERC20 Staking Token:- ( Gas used: 0.00389616 GWEI )
+https://rinkeby.etherscan.io/address/0xa5312489fc99ae91a37a5a8646a436cbea4cbe14#code
+
+ERC20 Reflectionary/Reward Token:- ( Gas used: 0.00605054 GWEI )
+https://goerli.etherscan.io/address/0x9d50f46ddaf35971d6165633984ff0e2ffc4af91#code
+
+ETHEREUM Dynamic_Staking_Contract Documentation:-
+https://docs.google.com/document/d/1NwS0qWVxPrLwatWWZZ7kYVCIsoez-rl81uM6PT7P4P0/
 
 
 
 
 
 
-ETHEREUM
-ERC-20 Dynamic Staking
+
+
+
+
 
 
 
