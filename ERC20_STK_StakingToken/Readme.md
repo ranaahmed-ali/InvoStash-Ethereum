@@ -1,5 +1,6 @@
 
-
+See Documentation for extra details.
+Docs : https://docs.google.com/document/d/1XE2AJ18Lb7X5xDOnsUmQf5i4V9TaMH3IWdpPdYUvOrk/
 
 
 
@@ -41,14 +42,52 @@ ERC-20 Token using Openzeppelin Standard (https://docs.openzeppelin.com/contract
 
 
 Implementation of ERC20 Token :
+This contract is optimized.
 
-NOTE-: Using Remix Ide for Contract creating and deployment.
+
+ERC20 Staking Token:- ( Gas used: 0.00389616 GWEI )    https://rinkeby.etherscan.io/address/0xa5312489fc99ae91a37a5a8646a436cbea4cbe14#code 
+
+
+Deployment procedure:- ( Remix )
+
+Deploying a Contract to Mainnet or Testnet Using Remix.
+Step 1- Create a file in Remix with your project name. And paste your code. Select the correct compiler version.
+
+Step 2- Navigate to the Compile sidebar option and press the Compile ERC20_StakinToken.sol button or just CTRL + S, it will compile your contract.
+
+Step 3- Select your desired contract with a contract name from CONTRACT. 
+
+Step 4- Now you can deploy the contract by navigating to the Deployment sidebar option. You need to change the topmost ENVIRONMENT dropdown from JavaScript VM to Injected Web3. This tells Remix to use the MetaMask injected provider, which will point it to your Mainnet or Testnet development node.
+If you wanted to try this using another network, you would have to connect MetaMask to the correct network instead of your local development node.
+
+As soon as you select Injected Web3, you will be prompted to allow Remix to connect to your MetaMask account. Press Next in MetaMask to allow Remix to access the selected account.
+
+Step 5- Back on Remix, you should see that the account you wish to use for deployment is now managed by MetaMask. Select Deploy.
+
+You will be prompted in MetaMask to confirm the contract deployment transaction.
+After you press Confirm and the deployment is complete, you will see the transaction listed in MetaMask. The contract will appear under Deployed Contracts in Remix.
+
+
+Video Tutorial: Ethereum Smart Contract with Remix NOTE-: Using Remix Ide for Contract creating and deployment.
+
+
+
+
 
 Staking Token:
 
 Now, we are going to focus on creating a Staking Token (ERC20 Based). As you know about the ERC20 Token is open zeppelin Standard.We are just importing file from open zeppelin of ERC20 Token.After importing flattened the file of ERC20_StakingToken.sol.Then all the importing file will be expand in one file.
 
-Now, we see the Read and Write functions of Staking Token on Remix Ide after compile and deploying.And also can check on EtherScan Rinkeby Testnet given link (https://rinkeby.etherscan.io/address/0xa5312489fc99ae91a37a5a8646a436cbea4cbe14#code) of deployed contract.
+
+Now, we see the Read and Write functions of Staking Token on Remix Ide after compile and deploying.And also can check on EtherScan Rinkeby Testnet given link (https://rinkeby.etherscan.io/address/0xa5312489fc99ae91a37a5a8646a436cbea4cbe14#code ) of deployed contract.
+
+
+
+
+
+
+
+
 
 Read Functions:-
 
